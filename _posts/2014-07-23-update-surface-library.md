@@ -6,8 +6,9 @@ title: Update Surface Library
 ## 1. Update the local PDB
 We are using /Volumes/Alpha/BackpocketLint/ as the local version for space reasons.
 You need to run it twice for some reason.
+
 ```
-	perl /Users/tbinkowski/Box\ Sync/xScripts/pdb-syncAndExtract.pl -sync -verbose`
+	perl /Users/tbinkowski/Box\ Sync/xScripts/pdb-syncAndExtract.pl -sync -verbose
     	perl /Users/tbinkowski/Box\ Sync/xScripts/pdb-syncAndExtract.pl
 ```
 ## 2. Generate Surfaces using FPocket
