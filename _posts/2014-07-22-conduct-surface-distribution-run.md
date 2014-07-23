@@ -22,6 +22,10 @@ Perfect match is (0.0, 1.0).
 
 `grep -v "\-1"  PREFIX_0_2014-07-23-1406141133.sdscreen.txt | sort -nk +5`
 
+## Align a structure to a pocket
+
+`align apc113179, pocket1_atm`
+
 
 Run 1
 ================================================================================
