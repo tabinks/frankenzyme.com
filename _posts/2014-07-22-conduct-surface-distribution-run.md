@@ -18,6 +18,11 @@ title: Conduct a Suface Distribution Run
 Perfect match is (0.0, 1.0).
 
 
+## Sort Results 
+
+`grep -v "\-1"  PREFIX_0_2014-07-23-1406141133.sdscreen.txt | sort -nk +5`
+
+
 Run 1
 ================================================================================
 `python screen_alignment.py /Volumes/Alpha/BackpocketLint/HetSurfaces/05/105m.HEM_A_155.pdb /Volumes/Alpha/BackpocketLint/HetSurfaces/05/105m.HEM_A_155.pdb`
