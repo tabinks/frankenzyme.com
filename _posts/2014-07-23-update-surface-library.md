@@ -27,7 +27,7 @@ accessible.  This could be fixed by only looking at atoms in FPocket output.
 ## Generate The Surface library
 This is simply a list of all the surfaces that we want to use for comparison to
 our query.  It walks the PDB-style folder hierarchy and prints the full path to 
-STDOUT.  
+a JSON file named *surface-library_prefix_date.json*.  
 
 It is current hardcoded to use the 'HetSurfaces' library located at `/Volumes/Alpha/BackpocketLint/HetSurfaces/`.
 ```
