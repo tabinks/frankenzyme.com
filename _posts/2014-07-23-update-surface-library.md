@@ -32,5 +32,5 @@ STDOUT.
 It is current hardcoded to use the 'HetSurfaces' library located at `/Volumes/Alpha/BackpocketLint/HetSurfaces/`.
 ```
 cd /Users/tbinkowski/Box\ Sync/xScripts/Proteinworks/bin
-python create_library.py
+python create_library.py prefix_name
 ```
