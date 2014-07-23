@@ -15,14 +15,14 @@ perl /Users/tbinkowski/Box\ Sync/xScripts/pdb-syncAndExtract.pl
 Walk the PDB-style directory and run FPocket on each file.  It uses the file as
 it is written so you may want to preprocess it depending on needs.  
 
-    `python create_pockets.py`
+`python create_pockets.py`
 
 ## Generate Surfaces using HetContacts
 Walks the PDB directory and uses the files as input.  It outputs the surfaces into
 a separate directory (HetSurfaces).  As of now some of the atoms may not be solvent
 accessible.  This could be fixed by only looking at atoms in FPocket output.
 
-    `python create_surfaceFromHetatms.py`
+`python create_surfaceFromHetatms.py`
 
 
 Generate Surface library
