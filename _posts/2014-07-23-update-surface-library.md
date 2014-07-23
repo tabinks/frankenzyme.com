@@ -4,7 +4,7 @@ title: Update Surface Library
 ---
 
 ## Update the local PDB
-We are using /Volumes/Alpha/BackpocketLint/ as the local version for space reasons.
+We are using `/Volumes/Alpha/BackpocketLint/` as the local version for space reasons.
 You need to run it twice for some reason.
 
 ```
