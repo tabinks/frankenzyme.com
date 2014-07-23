@@ -27,6 +27,10 @@ accessible.  This could be fixed by only looking at atoms in FPocket output.
 ## Generate The Surface library
 This is simply a list of all the surfaces that we want to use for comparison to
 our query.  It walks the PDB-style folder hierarchy and prints the full path to 
-STDOUT.  It is hardcoded to use the 'HetSurfaces' library located at /Volumes/Alpha/BackpocketLint/HetSurfaces/.
+STDOUT.  
 
-    python create_library.py
+It is current hardcoded to use the 'HetSurfaces' library located at `/Volumes/Alpha/BackpocketLint/HetSurfaces/`.
+```
+cd /Users/tbinkowski/Box\ Sync/xScripts/Proteinworks/bin
+python create_library.py
+```
