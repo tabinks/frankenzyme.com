@@ -23,3 +23,10 @@ a separate directory (HetSurfaces).  As of now some of the atoms may not be solv
 accessible.  This could be fixed by only looking at atoms in FPocket output.
 
 `python create_surfaceFromHetatms.py`
+
+## Generate The Surface library
+This is simply a list of all the surfaces that we want to use for comparison to
+our query.  It walks the PDB-style folder hierarchy and prints the full path to 
+STDOUT.  It is hardcoded to use the 'HetSurfaces' library located at /Volumes/Alpha/BackpocketLint/HetSurfaces/.
+
+    python create_library.py
