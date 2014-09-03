@@ -11,7 +11,8 @@ Changsoo Chan project.  Identify cellulase active site.
 
 ## Surface Screen run 
 
-510 % python "/Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/screen_sdistribution.py" pocket0_atm.pdb 0 "/Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/surface-library_test_2014-07-23.json" PREFIX
+    python "/Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/screen_sdistribution.py" pocket0_atm.pdb 0 "/Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/surface-library_test_2014-07-23.json" PREFIX
+    
 # Date:      2014-07-23 13:12
 # Running:   /Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/screen_sdistribution.py
 # Machine:   tbinkowski2.sbc.anl.gov
