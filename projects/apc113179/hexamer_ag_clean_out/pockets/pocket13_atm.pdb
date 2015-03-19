@@ -1,0 +1,58 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 1.9507
+HEADER 1  - Drug Score                        : 0.0071
+HEADER 2  - Number of V. Vertices             :    57
+HEADER 3  - Mean alpha-sphere radius          : 3.8357
+HEADER 4  - Mean alpha-sphere SA              : 0.5460
+HEADER 5  - Mean B-factor                     : 0.1800
+HEADER 6  - Hydrophobicity Score              : 3.5833
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Volume Score                      : 3.1667
+HEADER 9  - Real volume (approximation)       : 733.1375
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 17.8333
+HEADER 12 - Number of apolar alpha sphere     :    24
+HEADER 13 - Proportion of apolar alpha sphere : 0.4211
+ATOM    157   NE ARG G  22      33.827  48.689  31.174  1.00 41.77           N 0
+ATOM   1438    O PRO G 181      39.442  51.456  36.236  1.00 18.97           O 0
+ATOM    160  NH2 ARG G  22      35.254  47.142  32.109  1.00 42.44           N 0
+ATOM    169  OE2 GLU G  23      36.940  56.743  30.625  1.00 57.29           O 0
+ATOM    154   CB ARG G  22      33.210  51.863  31.266  1.00 41.46           C 0
+ATOM    166   CG GLU G  23      35.224  55.930  32.082  1.00 54.87           C 0
+ATOM    162    O ARG G  22      33.472  52.703  34.410  1.00 41.66           O 0
+ATOM    161    C ARG G  22      32.896  53.119  33.417  1.00 43.52           C 0
+ATOM   1435   CG PRO G 181      36.225  53.407  36.116  1.00 23.98           C 0
+ATOM   1400  CD2 HIS G 177      44.988  56.607  34.297  1.00 26.54           C 0
+ATOM   1428  CD1 ILE G 180      42.318  53.830  35.954  1.00 27.22           C 0
+ATOM   1429  CG2 ILE G 180      41.031  56.581  37.006  1.00 24.83           C 0
+ATOM   1426   CB ILE G 180      40.458  55.161  37.136  1.00 25.26           C 0
+ATOM   1399  NE2 HIS G 177      45.480  56.291  33.052  1.00 27.01           N 0
+ATOM   1436   CD PRO G 181      37.379  54.208  36.575  1.00 22.96           C 0
+ATOM    167   CD GLU G  23      35.960  57.035  31.334  1.00 57.57           C 0
+ATOM    168  OE1 GLU G  23      35.563  58.210  31.447  1.00 66.87           O 0
+ATOM    171    O GLU G  23      33.108  56.850  35.800  1.00 48.09           O 0
+ATOM    165   CB GLU G  23      34.135  56.471  33.003  1.00 51.87           C 0
+ATOM   1423    O GLN G 179      39.166  57.257  40.207  1.00 29.08           O 0
+ATOM    180  CD1 ILE G  25      33.445  55.957  38.873  1.00 63.23           C 0
+ATOM   1425   CA ILE G 180      39.526  55.091  38.367  1.00 23.66           C 0
+ATOM   1434   CB PRO G 181      36.433  51.992  36.533  1.00 21.71           C 0
+ATOM   1449   CB LYS G 183      38.998  45.058  34.932  1.00 22.08           C 0
+ATOM   1486  OG1 THR G 188      34.673  45.645  35.480  1.00 27.99           O 0
+ATOM   1446    O ILE G 182      37.996  47.269  37.730  1.00 18.12           O 0
+ATOM   1487  CG2 THR G 188      34.664  47.713  36.710  1.00 24.66           C 0
+ATOM   1445    C ILE G 182      39.113  47.514  37.262  1.00 18.87           C 0
+ATOM   1447    N LYS G 183      39.839  46.624  36.586  1.00 18.79           N 0
+ATOM   1439    N ILE G 182      38.766  49.916  37.774  1.00 19.45           N 0
+ATOM   1437    C PRO G 181      38.667  51.081  37.131  1.00 20.26           C 0
+ATOM    158   CZ ARG G  22      34.066  47.731  32.081  1.00 43.82           C 0
+ATOM   1440   CA ILE G 182      39.752  48.880  37.417  1.00 19.48           C 0
+ATOM    159  NH1 ARG G  22      33.149  47.364  32.981  1.00 43.01           N 0
+ATOM   1503   CE LYS G 190      31.937  51.620  37.221  1.00 41.34           C 0
+ATOM    151    O ASP G  21      29.884  51.713  33.755  1.00 44.22           O 0
+ATOM    153   CA ARG G  22      32.263  52.138  32.454  1.00 42.63           C 0
+TER
+END

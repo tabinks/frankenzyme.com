@@ -9,6 +9,7 @@ Goal:            Identify cellulase active site.
 
 [cellulales-in-pdb.txt](cellulases-in-pdb.txt)
 
+<<<<<<< Updated upstream
 Assay Results
 =============
 - Carboxymethylcellulose was used a substrate in assay by Matthias Hess.  Putatative Endoglucanase.
@@ -42,3 +43,21 @@ Surface Screen run
 # Query:     pocket0_atm.pdb
 # Library:   /Users/tbinkowski/Box Sync/xScripts/Proteinworks/bin/surface-library_test_2014-07-23.json (274962)
 Parallel time: 1995.660956
+=======
+
+# Create surface from the the hexamer interface AG 
+    /Users/tbinkowski/Box\ Sync/xDevelopment/fpocket2/bin/fpocket -f ag.pdb -i 70
+
+The pocket is mirrored at 45 degree (flipped and rotated).    
+
+Create the Surface Library from PDB
+====================================
+
+    python /Users/tbinkowski/Documents/Development/Proteinworks/bin/create_library.py -prefix goofy3 -filter_file cellulases-in-pdb.txt 
+
+
+Surface Screen
+==============
+
+    python /Users/tbinkowski/Documents/Development/Proteinworks/bin/screen_sdistribution.py apc113179_clean_out/pockets/pocket1_atm.pdb 1 surface-library_goofy3_2014-09-03.json goofy_screen
+>>>>>>> Stashed changes

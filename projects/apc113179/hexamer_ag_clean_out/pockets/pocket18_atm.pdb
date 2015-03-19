@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.2440
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of V. Vertices             :    36
+HEADER 3  - Mean alpha-sphere radius          : 3.8029
+HEADER 4  - Mean alpha-sphere SA              : 0.4813
+HEADER 5  - Mean B-factor                     : 0.2489
+HEADER 6  - Hydrophobicity Score              : 6.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Volume Score                      : 3.3333
+HEADER 9  - Real volume (approximation)       : 461.7130
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 12.0000
+HEADER 12 - Number of apolar alpha sphere     :    13
+HEADER 13 - Proportion of apolar alpha sphere : 0.3611
+ATOM    229   CD PRO A  31      13.661  42.076  11.990  1.00 38.46           C 0
+ATOM    213    O LYS A  29      12.491  39.286  14.802  1.00 56.68           O 0
+ATOM    202   NZ LYS A  28      13.212  42.355  19.209  1.00 81.77           N 0
+ATOM    228   CG PRO A  31      13.071  43.381  11.516  1.00 38.93           C 0
+ATOM   1653   CB TYR A 211      17.651  42.879  13.336  1.00 32.35           C 0
+ATOM    200   CD LYS A  28      14.567  40.373  18.550  1.00 78.28           C 0
+ATOM    218  CD1 PHE A  30      16.643  38.516  13.825  1.00 35.58           C 0
+ATOM   1651    N TYR A 211      19.653  42.141  14.626  1.00 29.77           N 0
+ATOM   1628    O ARG A 207      18.757  39.103  18.102  1.00 32.65           O 0
+ATOM   1637    O GLU A 208      17.526  42.197  19.732  1.00 36.25           O 0
+ATOM   1663    N GLU A 212      19.465  44.925  14.883  1.00 27.89           N 0
+ATOM    201   CE LYS A  28      14.551  41.715  19.256  1.00 78.22           C 0
+ATOM   1644    C ILE A 209      20.699  42.630  17.731  1.00 25.34           C 0
+ATOM   1639   CA ILE A 209      20.090  42.802  19.109  1.00 27.78           C 0
+ATOM   1669  OE2 GLU A 212      18.699  47.802  18.969  1.00 49.98           O 0
+ATOM   1665   CB GLU A 212      19.468  46.719  16.517  1.00 34.42           C 0
+ATOM   1660  CD2 TYR A 211      16.434  44.824  12.258  1.00 36.59           C 0
+ATOM    215   CA PHE A  30      13.862  39.174  12.420  1.00 41.87           C 0
+ATOM    225    N PRO A  31      13.007  41.070  11.134  1.00 37.79           N 0
+ATOM    226   CA PRO A  31      12.263  41.679  10.026  1.00 37.94           C 0
+ATOM    224    O PHE A  30      12.156  39.014  10.764  1.00 35.63           O 0
+ATOM    223    C PHE A  30      12.930  39.753  11.365  1.00 38.64           C 0
+TER
+END

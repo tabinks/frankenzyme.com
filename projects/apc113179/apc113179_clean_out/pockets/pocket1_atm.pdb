@@ -1,0 +1,74 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 15.4730
+HEADER 1  - Drug Score                        : 0.0208
+HEADER 2  - Number of V. Vertices             :   104
+HEADER 3  - Mean alpha-sphere radius          : 4.1796
+HEADER 4  - Mean alpha-sphere SA              : 0.5580
+HEADER 5  - Mean B-factor                     : 0.2369
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Volume Score                      : 4.1053
+HEADER 9  - Real volume (approximation)       : 1141.6628
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 12.5556
+HEADER 12 - Number of apolar alpha sphere     :    18
+HEADER 13 - Proportion of apolar alpha sphere : 0.1731
+ATOM   1669   CB ARG A 207      19.135  36.029  19.270  1.00 30.70           C 0
+ATOM   1554    O PRO A 191      19.994  30.586  20.841  1.00 25.80           O 0
+ATOM    186   CB SER A  26      16.172  35.808  22.317  1.00 63.49           C 0
+ATOM    189    O SER A  26      15.179  33.161  21.050  1.00 68.46           O 0
+ATOM   1671   CD ARG A 207      17.372  34.524  18.414  1.00 36.38           C 0
+ATOM    184    N SER A  26      15.934  33.854  23.753  1.00 60.86           N 0
+ATOM   1684  OE2 GLU A 208      19.675  37.586  22.867  1.00 38.53           O 0
+ATOM   1563  OD1 ASP A 193      22.147  34.790  21.255  1.00 27.35           O 0
+ATOM   1543   CD LYS A 190      21.224  33.180  26.124  1.00 36.56           C 0
+ATOM   1541   CB LYS A 190      22.004  31.719  24.232  1.00 29.83           C 0
+ATOM    179  CG1 ILE A  25      17.737  30.010  24.611  1.00 64.09           C 0
+ATOM    181  CG2 ILE A  25      15.805  30.586  23.191  1.00 60.64           C 0
+ATOM    177   CA ILE A  25      16.301  32.007  25.261  1.00 57.25           C 0
+ATOM   1527  OG1 THR A 188      27.927  33.960  29.369  1.00 27.99           O 0
+ATOM    484  OE1 GLN A  61      28.609  40.272  24.772  1.00 23.92           O 0
+ATOM   1524    N THR A 188      29.442  34.442  26.998  1.00 21.77           N 0
+ATOM   1526   CB THR A 188      27.303  33.921  28.084  1.00 25.09           C 0
+ATOM   1530    O THR A 188      27.355  34.348  24.984  1.00 24.72           O 0
+ATOM   1516    O ASP A 186      32.343  36.498  28.765  1.00 22.96           O 0
+ATOM    478    O GLU A  60      31.872  38.784  25.547  1.00 20.96           O 0
+ATOM    459  CD2 LEU A  58      26.431  43.582  26.015  1.00 24.31           C 0
+ATOM    159  NH1 ARG A  22      25.676  34.420  31.868  1.00 43.01           N 0
+ATOM    148  OD1 ASP A  21      20.552  38.112  32.336  1.00 61.12           O 0
+ATOM   1544   CE LYS A 190      21.384  33.342  27.628  1.00 41.34           C 0
+ATOM   1683  OE1 GLU A 208      19.986  39.419  24.039  1.00 52.61           O 0
+ATOM   1663   CG PRO A 206      24.371  39.578  22.460  1.00 21.79           C 0
+ATOM    475  OE1 GLU A  60      33.068  40.037  30.197  1.00 42.68           O 0
+ATOM    472   CB GLU A  60      33.224  40.249  27.420  1.00 24.77           C 0
+ATOM   1521  CG2 VAL A 187      30.539  35.809  24.204  1.00 21.16           C 0
+ATOM   1518   CA VAL A 187      31.644  35.233  26.435  1.00 20.41           C 0
+ATOM    485  NE2 GLN A  61      28.188  39.036  22.942  1.00 21.65           N 0
+ATOM   1528  CG2 THR A 188      26.131  32.934  28.139  1.00 24.66           C 0
+ATOM   1542   CG LYS A 190      22.371  32.365  25.550  1.00 33.32           C 0
+ATOM   1662   CB PRO A 206      23.009  39.008  22.225  1.00 21.66           C 0
+ATOM   1564  OD2 ASP A 193      24.071  34.218  22.236  1.00 29.67           O 0
+ATOM    151    O ASP A  21      20.277  35.073  31.094  1.00 44.22           O 0
+ATOM   1545   NZ LYS A 190      20.229  34.046  28.263  1.00 44.64           N 0
+ATOM   1682   CD GLU A 208      19.263  38.669  23.330  1.00 45.32           C 0
+ATOM    175    O GLY A  24      17.864  32.955  27.407  1.00 55.38           O 0
+ATOM   1681   CG GLU A 208      17.817  39.097  22.999  1.00 44.07           C 0
+ATOM    141  NE2 GLN A  20      13.522  34.852  30.297  1.00 65.37           N 0
+ATOM    145   CA ASP A  21      18.766  35.812  32.815  1.00 48.91           C 0
+ATOM    138   CG GLN A  20      13.967  35.559  32.569  1.00 59.27           C 0
+ATOM    143    O GLN A  20      16.983  34.043  31.542  1.00 50.90           O 0
+ATOM    142    C GLN A  20      16.791  34.357  32.719  1.00 52.21           C 0
+ATOM    144    N ASP A  21      17.599  35.160  33.406  1.00 49.12           N 0
+ATOM    185   CA SER A  26      15.207  34.754  22.874  1.00 65.52           C 0
+ATOM    183    O ILE A  25      14.120  32.849  24.660  1.00 55.77           O 0
+ATOM    182    C ILE A  25      15.344  32.945  24.526  1.00 58.92           C 0
+ATOM    174    C GLY A  24      16.775  32.420  27.635  1.00 55.88           C 0
+ATOM    176    N ILE A  25      15.966  31.961  26.680  1.00 56.96           N 0
+ATOM    173   CA GLY A  24      16.290  32.238  29.062  1.00 53.45           C 0
+ATOM   1649  CG1 VAL A 204      27.457  35.258  21.069  1.00 18.89           C 0
+TER
+END
